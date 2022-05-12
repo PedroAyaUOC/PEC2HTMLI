@@ -1112,7 +1112,7 @@
 111/home/usuario/Escritorio/HTMLI/PEC1/node_modules/reduce-css-calc/node_modules/postcss-value-parser/lib/parse.js1649181180933587834 0
 115/home/usuario/Escritorio/HTMLI/PEC1/node_modules/reduce-css-calc/node_modules/postcss-value-parser/lib/stringify.js1649181180937587994 0
 110/home/usuario/Escritorio/HTMLI/PEC1/node_modules/reduce-css-calc/node_modules/postcss-value-parser/lib/walk.js1649181180941588154 0
-51/home/usuario/Escritorio/HTMLI/PEC1/dist/index.html1652388446629105238 0
+51/home/usuario/Escritorio/HTMLI/PEC1/dist/index.html1652389451950957335 0
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/sourcetree.svg1649181973902208273 0
 74/home/usuario/Escritorio/HTMLI/PEC1/node_modules/reduce-css-calc/README.md1649181181205598715 0
 103/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/stopwatch.svg1649181974270206221 0
@@ -1669,7 +1669,7 @@
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/object-inspect/test/lowbyte.js1649179845468581927 0
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2019/ToInt16.js1649179848956307122 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/regenerator-runtime/runtime.js1649178838209937912 0
-58/home/usuario/Escritorio/HTMLI/PEC1/dist/ana.7759d4d8.jpeg1652388446993106804 0
+58/home/usuario/Escritorio/HTMLI/PEC1/dist/ana.7759d4d8.jpeg1652389451590951297 0
 85/home/usuario/Escritorio/HTMLI/PEC1/node_modules/object-inspect/test/indent-option.js1649179845336592920 0
 92/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/mediarecorder.js1649178851798197464 0
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/wave-square.svg1649181975554199145 0
@@ -1908,7 +1908,7 @@
 61/home/usuario/Escritorio/HTMLI/PEC1/node_modules/lmdb/deps.ts1649178861845180708 0
 80/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/regions/MC.js1649178851762186512 0
 57/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-tree1649178847676933853 1
-53/home/usuario/Escritorio/HTMLI/PEC1/dist/comicos.html1652388446633105255 0
+53/home/usuario/Escritorio/HTMLI/PEC1/dist/comicos.html1652389451950957335 0
 68/home/usuario/Escritorio/HTMLI/PEC1/node_modules/json5/dist/index.js1649178838702096944 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/yaml/dist/Schema-88e323a7.js1649178841222905916 0
 65/home/usuario/Escritorio/HTMLI/PEC1/node_modules/cssesc/README.md1649181197566260184 0
@@ -2412,7 +2412,7 @@
 57/home/usuario/Escritorio/HTMLI/PEC1/node_modules/has-ansi1649181157744675807 1
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/road-spikes.svg1649181972994213397 0
 92/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/css-boxshadow.js1649178846944706950 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/licencia.15230c99.jpeg1652388446977106735 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/licencia.15230c99.jpeg1652389451590951297 0
 101/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/dyalog.svg1649181967322247207 0
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2018/IsArray.js1649179847152445185 0
 90/home/usuario/Escritorio/HTMLI/PEC1/node_modules/autoprefixer/lib/hacks/background-size.js1649181067373456644 0
@@ -2446,7 +2446,7 @@
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/arrows-to-eye.svg1649181964726263692 0
 91/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/css3-tabsize.js1649178849405466720 0
 69/home/usuario/Escritorio/HTMLI/PEC1/node_modules/buffer-from/index.js1649178837877830403 0
-60/home/usuario/Escritorio/HTMLI/PEC1/dist/pedro.d7342e58.webp1652388446693105513 0
+60/home/usuario/Escritorio/HTMLI/PEC1/dist/pedro.d7342e58.webp1652389451282946131 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_drop.11649178840654724384 0
 85/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2021/BigInt/leftShift.js1649179847604409966 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2020/IsStringPrefix.js1649179847460421187 0
@@ -2529,7 +2529,7 @@
 64/home/usuario/Escritorio/HTMLI/PEC1/node_modules/cssdb/cssdb.mjs1649181567271634787 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2020/TimeString.js1649179848852314953 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-normalize-repeat-style/types/lib/map.d.ts1649181197938275382 0
-71/home/usuario/Escritorio/HTMLI/PEC1/dist/jarl-chiquito-sm.6dc4fb86.jpeg1652388446985106769 0
+71/home/usuario/Escritorio/HTMLI/PEC1/dist/jarl-chiquito-sm.6dc4fb86.jpeg1652389451458949084 0
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2017/IsArray.js1649179847148445496 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/utility-types/dist/mapped-types.js1649178838494029711 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/core/test/fixtures/invalid-source-missing1649178850217715714 1
@@ -2539,7 +2539,7 @@
 116/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/hands-asl-interpreting.svg1649181969742232414 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/cube.svg1649181966810250404 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/bus-simple.svg1649181965278260133 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/index.59a40e7a.js.map1652388447025106941 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/index.59a40e7a.js.map1652389451738953780 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-color-hex-alpha/LICENSE.md1649181566919616901 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/file-medical.svg1649181968586239413 0
 70/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-blank-pseudo/dist1649181567679655523 1
@@ -2756,7 +2756,7 @@
 60/home/usuario/Escritorio/HTMLI/PEC1/node_modules/yaml/seq.js1649178841567015539 0
 73/home/usuario/Escritorio/HTMLI/PEC1/node_modules/node-gyp-build/README.md1649178838630073672 0
 73/home/usuario/Escritorio/HTMLI/PEC1/node_modules/terser/lib/propmangle.js1649178844820043762 0
-58/home/usuario/Escritorio/HTMLI/PEC1/dist/presentacion.html1652388446633105255 0
+58/home/usuario/Escritorio/HTMLI/PEC1/dist/presentacion.html1652389451950957335 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/commander/typings/index.d.ts1649178839134236383 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/calculator.svg1649181965294260030 0
 108/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/clipboard-user.svg1649181966230254060 0
@@ -2780,7 +2780,7 @@
 61/home/usuario/Escritorio/HTMLI/PEC1/node_modules/yaml/LICENSE1649178837845820010 0
 82/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-normalize-positions/types1649181197614262145 1
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/vimeo.svg1649181975422199865 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/barragan.87bbae49.jpeg1652388447009106872 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/barragan.87bbae49.jpeg1652389451602951499 0
 80/home/usuario/Escritorio/HTMLI/PEC1/node_modules/stylehacks/src/plugins/index.js1649181198250288141 0
 88/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/mpeg-dash.js1649178851902229102 0
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/shield-halved.svg1649181973378211230 0
@@ -2907,7 +2907,7 @@
 113/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/location-crosshairs.svg1649181971298223197 0
 90/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/packager-html/src/HTMLPackager.js1649178841342944157 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/rebel.svg1649181972750214798 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/enlaces.e1d78536.avif1652388446997106821 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/enlaces.e1d78536.avif1652389451730953646 0
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/cc-apple-pay.svg1649181965634257854 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/face-frown.svg1649181967902243605 0
 92/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-parcel-import/node_modules/has-flag1649181583880480363 1
@@ -2933,7 +2933,7 @@
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/circle.svg1649181966174254415 0
 109/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/cc-diners-club.svg1649181965634257854 0
 56/home/usuario/Escritorio/HTMLI/PEC1/src/img/barragan.jpg1646637454000000000 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/barragan.9f808fde.avif1652388446665105393 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/barragan.9f808fde.avif1652389451186944520 0
 86/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2021/Number/unaryMinus.js1649179849412273842 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/photo-film.svg1649181972402216795 0
 119/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/arrow-down-up-across-line.svg1649181964586264601 0
@@ -3097,7 +3097,7 @@
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/dom-serializer/node_modules/entities/lib/index.d.ts.map1649178839178250538 0
 58/home/usuario/Escritorio/HTMLI/PEC1/node_modules/which/bin1649179844692647407 1
 67/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/graph/test1649178839558372786 1
-66/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-sm.93551b0d.avif1652388446425104361 0
+66/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-sm.93551b0d.avif1652389451018941704 0
 74/home/usuario/Escritorio/HTMLI/PEC1/node_modules/has-bigints/.eslintignore1649179844188690765 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/list-check.svg1649181971274223337 0
 97/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/css-math-functions.js1649178848413161324 0
@@ -3165,7 +3165,7 @@
 112/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/house-circle-xmark.svg1649181970294229118 0
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-to-primitive/.travis.yml1649179845292596584 0
 97/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/dna.svg1649181967134248375 0
-40/home/usuario/Escritorio/HTMLI/PEC1/dist1652388447073107147 1
+40/home/usuario/Escritorio/HTMLI/PEC1/dist1652389559088651955 1
 68/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/helpers1649179848812317964 1
 69/home/usuario/Escritorio/HTMLI/PEC1/node_modules/simple-get/README.md1652377054253097409 0
 87/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/promises.js1649178852718476350 0
@@ -3274,7 +3274,7 @@
 86/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/source-map/dist/types.js.flow1649178838494029711 0
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/mobile-screen.svg1649181971686220934 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-unique-selectors/src1649181197466256098 1
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/eugenio.063275af.avif1652388446525104791 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/eugenio.063275af.avif1652389451114943313 0
 61/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome1649181961830282836 1
 93/home/usuario/Escritorio/HTMLI/PEC1/node_modules/msgpackr-extract/node_modules/node-gyp-build1649178843939767153 1
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/source-map/parcel_sourcemap_wasm/src/lib.rs1649178848349141585 0
@@ -3352,7 +3352,7 @@
 78/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2017/IsInteger.js1649179847344430224 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/book-atlas.svg1649181964982262029 0
 97/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@csstools/postcss-is-pseudo-class/dist/index.mjs1649181567255633974 0
-70/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-duo-xs.1c969c36.jpeg1652388447001106838 0
+70/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-duo-xs.1c969c36.jpeg1652389451478949419 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/less/fontawesome.less1649181964242266836 0
 93/home/usuario/Escritorio/HTMLI/PEC1/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md1649179844832635363 0
 117/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-parcel-import/node_modules/postcss/docs/guidelines/runner.md1649181584292501380 0
@@ -3425,7 +3425,7 @@
 81/home/usuario/Escritorio/HTMLI/PEC1/node_modules/cosmiconfig/dist/getDirectory.js1649178838522038762 0
 73/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-api/package.json1649181197442255118 0
 81/home/usuario/Escritorio/HTMLI/PEC1/node_modules/get-symbol-description/README.md1649179844916628135 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/camiseta.85086f22.jpeg1652388446981106752 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/camiseta.85086f22.jpeg1652389451430948614 0
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/chevron-right.svg1649181965942255882 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/user-large.svg1649181975166201262 0
 68/home/usuario/Escritorio/HTMLI/PEC1/node_modules/graceful-fs/LICENSE1649179844312680097 0
@@ -3467,7 +3467,7 @@
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/css/regular.min.css1649181962362279263 0
 115/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/magnifying-glass-plus.svg1649181971358222847 0
 95/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/8.svg1649181964374265978 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/risitas.39403234.webp1652388446557104929 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/risitas.39403234.webp1652389451142943783 0
 75/home/usuario/Escritorio/HTMLI/PEC1/node_modules/color-convert/CHANGELOG.md1649178837957856386 0
 91/home/usuario/Escritorio/HTMLI/PEC1/node_modules/htmlnano/lib/modules/collapseWhitespace.js1649178839370312306 0
 85/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@csstools/postcss-ic-unit/LICENSE.md1649181567735658368 0
@@ -3475,7 +3475,7 @@
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/arrow-pointer.svg1649181964606264472 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/cosmiconfig/dist/readFile.d.ts.map1649178839694416538 0
 72/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/transformer-css1649178840850787140 1
-66/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-xl.41062b81.jpeg1652388446985106769 0
+66/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-xl.41062b81.jpeg1652389451450948950 0
 109/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/building-shield.svg1649181965198260645 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/moon.svg1649181971794220304 0
 94/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/background-sync.js1649178843571650980 0
@@ -3535,7 +3535,7 @@
 69/home/usuario/Escritorio/HTMLI/PEC1/node_modules/unbox-primitive/test1649179844716645341 1
 109/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/octopus-deploy.svg1649181971950219394 0
 55/home/usuario/Escritorio/HTMLI/PEC1/node_modules/base-x1649178838225943083 1
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/camiseta.6758e6b9.webp1652388446433104396 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/camiseta.6758e6b9.webp1652389451030941905 0
 108/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/arrow-down-a-z.svg1649181964574264680 0
 97/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/core/src/requests/ParcelConfigRequest.js1649178848829289632 0
 74/home/usuario/Escritorio/HTMLI/PEC1/node_modules/are-we-there-yet/index.js1652377054045097403 0
@@ -3545,7 +3545,7 @@
 86/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-minify-selectors/src/index.js1649181197638263126 0
 109/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/regular/calendar-days.svg1649181965306259954 0
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-discard-comments/src/lib/commentRemover.js1649181197598261492 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/enlaces.2b6f19d9.webp1652388447065107112 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/enlaces.2b6f19d9.webp1652389451798954786 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/utils/src/ansi-html.js1649178842267238223 0
 55/home/usuario/Escritorio/HTMLI/PEC1/node_modules/terser1649178845340206661 1
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/code-branch.svg1649181966370253179 0
@@ -3560,19 +3560,19 @@
 120/home/usuario/Escritorio/HTMLI/PEC1/node_modules/tar-stream/node_modules/readable-stream/lib/internal/streams/destroy.js1652377054453097419 0
 82/home/usuario/Escritorio/HTMLI/PEC1/node_modules/resolve/lib/node-modules-paths.js1649179846112528588 0
 96/home/usuario/Escritorio/HTMLI/PEC1/node_modules/sharp/node_modules/semver/functions/rcompare.js1652377054941097438 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito.aa3cdb87.jpeg1652388447017106906 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito.aa3cdb87.jpeg1652389451754954048 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/npm-run-all/node_modules/color-convert/package.json1649179844312680097 0
 73/home/usuario/Escritorio/HTMLI/PEC1/node_modules/colord/plugins/a11y.d.ts1649181198502298449 0
 75/home/usuario/Escritorio/HTMLI/PEC1/node_modules/internal-slot/CHANGELOG.md1649179844884630888 0
 89/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@csstools/postcss-ic-unit/dist/index.mjs1649181567839663653 0
-66/home/usuario/Escritorio/HTMLI/PEC1/dist/logo-footer.b883a9e3.webp1652388446425104361 0
+66/home/usuario/Escritorio/HTMLI/PEC1/dist/logo-footer.b883a9e3.webp1652389451018941704 0
 80/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/utils/src/countLines.js1649178842819413302 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-tree/lib/syntax/function1649178847432858246 1
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/cloud-bolt.svg1649181966330253430 0
 53/home/usuario/Escritorio/HTMLI/PEC1/node_modules/glob1649179844852633642 1
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/config-default/test1649178842867428527 1
 85/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2020/BigInt/remainder.js1649179848080373081 0
-58/home/usuario/Escritorio/HTMLI/PEC1/dist/ana.f075263a.webp1652388446697105530 0
+58/home/usuario/Escritorio/HTMLI/PEC1/dist/ana.f075263a.webp1652389451302946467 0
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2016/IsCompatiblePropertyDescriptor.js1649179847204441133 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/stop.svg1649181974250206331 0
 69/home/usuario/Escritorio/HTMLI/PEC1/node_modules/json5/lib/unicode.js1649178839326298150 0
@@ -3629,7 +3629,7 @@
 65/home/usuario/Escritorio/HTMLI/PEC1/node_modules/semver/README.md1649178838806130562 0
 72/home/usuario/Escritorio/HTMLI/PEC1/node_modules/internal-slot/README.md1649179844972623317 0
 71/home/usuario/Escritorio/HTMLI/PEC1/node_modules/normalize-url/index.js1649181197458255772 0
-35/home/usuario/Escritorio/HTMLI/PEC11652388190199945010 1
+35/home/usuario/Escritorio/HTMLI/PEC11652389266119472887 1
 94/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/intrinsic-width.js1649178851226023454 0
 97/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/runtime-js/src/helpers/node/js-loader.js1649178843351581527 0
 70/home/usuario/Escritorio/HTMLI/PEC1/node_modules/nan/doc/persistent.md1649178842163205236 0
@@ -3645,7 +3645,7 @@
 73/home/usuario/Escritorio/HTMLI/PEC1/node_modules/svgo/lib/svgo/plugins.js1649178841667047406 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/building.svg1649181965250260312 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/get-symbol-description/LICENSE1649179844584656698 0
-66/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-sm.7ed9c823.jpeg1652388446993106804 0
+66/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-sm.7ed9c823.jpeg1652389451450948950 0
 60/home/usuario/Escritorio/HTMLI/PEC1/node_modules/signal-exit1652377054109097403 1
 96/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/package-manager/src/NodeResolverSync.js1649178845184157873 0
 81/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-tree/lib/syntax/node/Hash.js1649178844704007313 0
@@ -3662,7 +3662,7 @@
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/yelp.svg1649181975786197879 0
 74/home/usuario/Escritorio/HTMLI/PEC1/node_modules/autoprefixer/lib/utils.js1649181067717467725 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2020/HasOwnProperty.js1649179846988458004 0
-66/home/usuario/Escritorio/HTMLI/PEC1/dist/logo-footer.b4cda690.avif1652388446421104344 0
+66/home/usuario/Escritorio/HTMLI/PEC1/dist/logo-footer.b4cda690.avif1652389451022941770 0
 112/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/house-circle-check.svg1649181970258229331 0
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/jet-fighter.svg1649181970686226795 0
 46/home/usuario/Escritorio/HTMLI/PEC1/.postcssrc1649182238223990284 0
@@ -3708,10 +3708,10 @@
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/cc-discover.svg1649181965634257854 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2016/InLeapYear.js1649179847064452041 0
 101/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/deezer.svg1649181966906249800 0
-68/home/usuario/Escritorio/HTMLI/PEC1/dist/risa-gente-xl.184c244f.avif1652388446877106305 0
+68/home/usuario/Escritorio/HTMLI/PEC1/dist/risa-gente-xl.184c244f.avif1652389451470949286 0
 61/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-svgo1649181197734267047 1
 111/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/arrow-rotate-left.svg1649181964630264316 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/enlaces.8aaa1607.jpeg1652388446997106821 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/enlaces.8aaa1607.jpeg1652389451730953646 0
 61/home/usuario/Escritorio/HTMLI/PEC1/node_modules/yaml/pair.js1649178839490350910 0
 114/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/regular/square-caret-right.svg1649181973974207866 0
 92/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2021/SymbolDescriptiveString.js1649179848620332422 0
@@ -3810,7 +3810,7 @@
 87/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-tree/lib/definition-syntax/walk.js1649178847476871881 0
 101/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/mug-hot.svg1649181971842220024 0
 94/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2015/CreateDataPropertyOrThrow.js1649179846344509894 0
-65/home/usuario/Escritorio/HTMLI/PEC1/dist/topcomicos.39b05535.avif1652388446861106236 0
+65/home/usuario/Escritorio/HTMLI/PEC1/dist/topcomicos.39b05535.avif1652389451722953511 0
 108/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/tumblr-square.svg1649181974926202579 0
 70/home/usuario/Escritorio/HTMLI/PEC1/node_modules/nice-try/CHANGELOG.md1649179844344677345 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/bookmark.svg1649181965022261771 0
@@ -3825,7 +3825,7 @@
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-tree/lib/syntax/scope/value.js1649178847432858246 0
 65/home/usuario/Escritorio/HTMLI/PEC1/node_modules/nan/package.json1649178837833816113 0
 112/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/regular/face-grin-tongue.svg1649181968006242960 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/eugenio.4754a3a6.jpeg1652388446993106804 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/eugenio.4754a3a6.jpeg1652389451462949151 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/google-play.svg1649181969346234798 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/object-group.svg1649181971946219418 0
 87/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@csstools/postcss-ic-unit/package.json1649181567479645359 0
@@ -3841,7 +3841,7 @@
 74/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/5/ToUint32.js1649179849312281114 0
 66/home/usuario/Escritorio/HTMLI/PEC1/node_modules/nan/doc/scopes.md1649178842227225536 0
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-has-pseudo/dist/cli.cjs1649181567031622592 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/index.56c74bfd.css.map1652388446533104825 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/index.56c74bfd.css.map1652389451098943045 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/cloud-rain.svg1649181966350253304 0
 96/home/usuario/Escritorio/HTMLI/PEC1/node_modules/npm-run-all/node_modules/color-convert/index.js1649179844712645686 0
 120/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/temperature-three-quarters.svg1649181974594204422 0
@@ -3884,7 +3884,7 @@
 103/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/fill-drip.svg1649181968714238630 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-prefers-color-scheme/dist/browser-global.js.map1649181567171629705 0
 70/home/usuario/Escritorio/HTMLI/PEC1/node_modules/normalize-url/license1649181197442255118 0
-59/home/usuario/Escritorio/HTMLI/PEC1/dist/index.56c74bfd.css1652388446521104774 0
+59/home/usuario/Escritorio/HTMLI/PEC1/dist/index.56c74bfd.css1652389451090942911 0
 120/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@csstools/postcss-color-function/dist/convert-prophoto-rgb-to-srgb.d.ts1649181568011672394 0
 65/home/usuario/Escritorio/HTMLI/PEC1/node_modules/stylehacks/types1649181198690306139 1
 92/home/usuario/Escritorio/HTMLI/PEC1/node_modules/sharp/node_modules/node-addon-api/nothing.c1652377053989097398 0
@@ -3911,7 +3911,7 @@
 70/home/usuario/Escritorio/HTMLI/PEC1/node_modules/is-regex/package.json1649179844804637771 0
 62/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/cache1649178840398642417 1
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/lmdb/prebuilds/darwin-arm641649178859200408357 1
-65/home/usuario/Escritorio/HTMLI/PEC1/dist/logo-footer.1a47d0c8.png1652388446981106752 0
+65/home/usuario/Escritorio/HTMLI/PEC1/dist/logo-footer.1a47d0c8.png1652389451590951297 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/abortcontroller-polyfill/src1649178839270280135 1
 91/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2019/OrdinaryGetOwnProperty.js1649179847916385658 0
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/cosmiconfig/dist/index.d.ts1649178840590703892 0
@@ -3934,7 +3934,7 @@
 84/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-custom-properties/README.md1649181567031622592 0
 108/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/scale-balanced.svg1649181973142212562 0
 103/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/cloud-sun.svg1649181966354253280 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/eugenio.f0df78df.webp1652388446573104997 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/eugenio.f0df78df.webp1652389451142943783 0
 55/home/usuario/Escritorio/HTMLI/PEC1/node_modules/cssesc1649181197630262799 1
 78/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-calc/types/index.d.ts1649181198482297632 0
 82/home/usuario/Escritorio/HTMLI/PEC1/node_modules/csso/lib/replace/property/font.js1649178841899121339 0
@@ -3954,7 +3954,7 @@
 131/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/sub/a1649178845400225426 1
 85/home/usuario/Escritorio/HTMLI/PEC1/node_modules/autoprefixer/lib/hacks/appearance.js1649181067317454839 0
 70/home/usuario/Escritorio/HTMLI/PEC1/node_modules/internal-slot/LICENSE1649179844596655665 0
-52/home/usuario/Escritorio/HTMLI/PEC1/src/comicos.html1652388121663610566 0
+52/home/usuario/Escritorio/HTMLI/PEC1/src/comicos.html1652389285875882440 0
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/slash.svg1649181973570210146 0
 119/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@csstools/postcss-hwb-function/dist/has-supports-at-rule-ancestor.d.ts1649181567059624015 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/book-bible.svg1649181964986262003 0
@@ -4014,7 +4014,7 @@
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/cloudflare.svg1649181966358253254 0
 81/home/usuario/Escritorio/HTMLI/PEC1/node_modules/term-size/vendor/macos/term-size1649178838534042641 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/xxhash-wasm/umd/xxhash-wasm.js.map1649178838898160300 0
-66/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-xs.67d1db7d.jpeg1652388446985106769 0
+66/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-xs.67d1db7d.jpeg1652389451450948950 0
 72/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/diagnostic/test1649178843399596681 1
 94/home/usuario/Escritorio/HTMLI/PEC1/node_modules/node-abi/node_modules/semver/classes/index.js1652377054541097422 0
 103/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/core/test/fixtures/custom-targets/package.json1649178850157697378 0
@@ -4054,7 +4054,7 @@
 103/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/regular/comment.svg1649181966414252901 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2019/msFromTime.js1649179847776396565 0
 89/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/css-resize.js1649178848853297035 0
-60/home/usuario/Escritorio/HTMLI/PEC1/dist/pedro.de08e2d4.avif1652388446669105410 0
+60/home/usuario/Escritorio/HTMLI/PEC1/dist/pedro.de08e2d4.avif1652389451238945394 0
 73/home/usuario/Escritorio/HTMLI/PEC1/node_modules/node-abi/CONTRIBUTING.md1652377054321097413 0
 114/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/mobile-screen-button.svg1649181971682220957 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/shower.svg1649181973446210847 0
@@ -4097,7 +4097,7 @@
 108/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/weight-hanging.svg1649181975562199101 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/square-h.svg1649181974018207619 0
 103/home/usuario/Escritorio/HTMLI/PEC1/node_modules/simple-swizzle/node_modules/is-arrayish/yarn-error.log1652377054301097412 0
-53/home/usuario/Escritorio/HTMLI/PEC1/src/chiquito.html1652387719617312971 0
+53/home/usuario/Escritorio/HTMLI/PEC1/src/chiquito.html1652389559196653567 0
 103/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/pen-fancy.svg1649181972162218172 0
 78/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-prefers-color-scheme/dist1649181567551649018 1
 59/home/usuario/Escritorio/HTMLI/PEC1/node_modules/base-x/src1649178838397998680 1
@@ -4140,7 +4140,7 @@
 84/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/runtime-browser-hmr/LICENSE1649178844327889168 0
 110/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/compass-drafting.svg1649181966506252321 0
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/chromecast.svg1649181965978255652 0
-50/home/usuario/Escritorio/HTMLI/PEC1/src/index.html1652388397668892954 0
+50/home/usuario/Escritorio/HTMLI/PEC1/src/index.html1652389057371537596 0
 55/home/usuario/Escritorio/HTMLI/PEC1/src/img/arevalo.jpg1646637656000000000 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/cosmiconfig/dist/Explorer.d.ts1649178840074538677 0
 86/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-blank-pseudo/dist/browser.mjs.map1649181567399641292 0
@@ -4177,7 +4177,7 @@
 96/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/rtcpeerconnection.js1649178853006563558 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/bath.svg1649181964882262679 0
 89/home/usuario/Escritorio/HTMLI/PEC1/node_modules/yaml/browser/dist/resolveSeq-492ab440.js1649178840858789701 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito.a9ea6db0.avif1652388446865106253 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito.a9ea6db0.avif1652389451730953646 0
 101/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/chrome.svg1649181965970255703 0
 68/home/usuario/Escritorio/HTMLI/PEC1/node_modules/js-base64/base64.js1649181157744675807 0
 65/home/usuario/Escritorio/HTMLI/PEC1/node_modules/are-we-there-yet1652377054289097411 1
@@ -4195,7 +4195,7 @@
 69/home/usuario/Escritorio/HTMLI/PEC1/node_modules/yaml/browser/util.js1649178842463300389 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/are-we-there-yet/tracker-stream.js1652377054177097407 0
 73/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2018/Type.js1649179849388275587 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/licencia.dfbad183.webp1652388446421104344 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/licencia.dfbad183.webp1652389451022941770 0
 90/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/canvas-text.js1649178845144145361 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/tags.svg1649181974514204866 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/snowplow.svg1649181973618209875 0
@@ -4221,7 +4221,7 @@
 96/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2021/CanonicalNumericIndexString.js1649179846144526011 0
 84/home/usuario/Escritorio/HTMLI/PEC1/node_modules/nan/nan_implementation_pre_12_inl.h1649178839302290430 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/database.svg1649181966874250001 0
-74/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-collage-sm.e1edabc2.jpeg1652388447005106854 0
+74/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-collage-sm.e1edabc2.jpeg1652389451494949688 0
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/heart.svg1649181970022230730 0
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/laptop-code.svg1649181971034224736 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/css/svg-with-js.min.css1649181962406278969 0
@@ -4265,7 +4265,7 @@
 61/home/usuario/Escritorio/HTMLI/PEC1/node_modules/once/LICENSE1649179844452668053 0
 82/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/core/src/public/Config.js1649178846496567488 0
 80/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/regions/PK.js1649178852494408516 0
-64/home/usuario/Escritorio/HTMLI/PEC1/dist/marianico.95b34197.avif1652388446665105393 0
+64/home/usuario/Escritorio/HTMLI/PEC1/dist/marianico.95b34197.avif1652389451234945326 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2018/ToString.js1649179849232286931 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/css/svg-with-js.css1649181962386279103 0
 87/home/usuario/Escritorio/HTMLI/PEC1/node_modules/chrome-trace-event/dist/trace-event.js1649178837961857685 0
@@ -4316,7 +4316,7 @@
 67/home/usuario/Escritorio/HTMLI/PEC1/node_modules/ieee754/index.d.ts1652377054149097405 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/regular/face-laugh.svg1649181968130242201 0
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/scss/_bordered-pulled.scss1649181964270266654 0
-70/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-duo-xl.e55d0c5e.jpeg1652388447001106838 0
+70/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-duo-xl.e55d0c5e.jpeg1652389451486949553 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/car-rear.svg1649181965554258366 0
 115/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/person-through-window.svg1649181972378216933 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/vimeo-v.svg1649181975422199865 0
@@ -4402,14 +4402,14 @@
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/minimize.svg1649181971650221144 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/baseball.svg1649181964866262782 0
 86/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2015/SetIntegrityLevel.js1649179848276358323 0
-58/home/usuario/Escritorio/HTMLI/PEC1/dist/index.59a40e7a.js1652388446973106717 0
+58/home/usuario/Escritorio/HTMLI/PEC1/dist/index.59a40e7a.js1652389451722953511 0
 82/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-tree/lib/syntax/pseudo/dir.js1649178843843736847 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/string.prototype.trimstart/auto.js1649179844652650848 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/define-properties/CHANGELOG.md1649179844752642245 0
 111/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/heart-circle-bolt.svg1649181969954231137 0
 117/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/creative-commons-remix.svg1649181966686251186 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/apng.js1649178841535005342 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/arevalo.c7685b39.webp1652388446749105754 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/arevalo.c7685b39.webp1652389451146943850 0
 121/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/building-circle-exclamation.svg1649181965174260798 0
 56/home/usuario/Escritorio/HTMLI/PEC1/src/img/chiquito.jpg1646597262000000000 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/node-addon-api/tools/conversion.js1649178839670408817 0
@@ -4480,7 +4480,7 @@
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/regular/circle-user.svg1649181966154254540 0
 112/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/phoenix-framework.svg1649181972394216841 0
 71/home/usuario/Escritorio/HTMLI/PEC1/node_modules/color-convert/route.js1649178838670086601 0
-54/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito.html1652388446633105255 0
+54/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito.html1652389559072651717 0
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/regular/face-kiss.svg1649181968070242568 0
 122/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-double-position-gradients/dist/has-supports-at-rule-ancestor.d.ts1649181567095625844 0
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/COPYRIGHT1649178839182251825 0
@@ -4503,7 +4503,7 @@
 66/home/usuario/Escritorio/HTMLI/PEC1/node_modules/cssnano-utils/src1649181197598261492 1
 73/home/usuario/Escritorio/HTMLI/PEC1/node_modules/resolve/test/symlinks.js1649179846220519887 0
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/star-of-david.svg1649181974182206709 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/arevalo.46abb103.jpeg1652388447009106872 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/arevalo.46abb103.jpeg1652389451590951297 0
 86/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-unique-selectors/package.json1649181197566260184 0
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/css/v4-font-face.css1649181962430278809 0
 71/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/runtime-js/src1649178843867744425 1
@@ -4600,12 +4600,12 @@
 90/home/usuario/Escritorio/HTMLI/PEC1/node_modules/string.prototype.padend/implementation.js1649179844852633642 0
 64/home/usuario/Escritorio/HTMLI/PEC1/node_modules/unbox-primitive1649179844916628135 1
 109/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/hand-point-left.svg1649181969662232896 0
-61/home/usuario/Escritorio/HTMLI/PEC1/dist/favicon.c5ec8b79.ico1652388446429104377 0
+61/home/usuario/Escritorio/HTMLI/PEC1/dist/favicon.c5ec8b79.ico1652389451026941838 0
 94/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2018/CreateDataPropertyOrThrow.js1649179846372507638 0
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/regular/life-ring.svg1649181971174223920 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/terser/node_modules/source-map/lib/binary-search.js1649178839358308445 0
 72/home/usuario/Escritorio/HTMLI/PEC1/node_modules/parse-json/package.json1649178838073893952 0
-71/home/usuario/Escritorio/HTMLI/PEC1/dist/jarl-chiquito-xl.cd9e3a95.jpeg1652388447033106975 0
+71/home/usuario/Escritorio/HTMLI/PEC1/dist/jarl-chiquito-xl.cd9e3a95.jpeg1652389451546950559 0
 59/home/usuario/Escritorio/HTMLI/PEC1/node_modules/nullthrows1649178838397998680 1
 71/home/usuario/Escritorio/HTMLI/PEC1/node_modules/svgo/lib/svgo/tools.js1649178845116136605 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/bluetooth-b.svg1649181964958262185 0
@@ -4642,7 +4642,7 @@
 63/home/usuario/Escritorio/HTMLI/PEC1/node_modules/pump/README.md1652377054177097407 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/phone-flip.svg1649181972398216818 0
 71/home/usuario/Escritorio/HTMLI/PEC1/node_modules/colord/plugins/mix.mjs1649181198442295995 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/risitas.52fd1bba.jpeg1652388446989106785 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/risitas.52fd1bba.jpeg1652389451598951432 0
 80/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/regions/MX.js1649178852010261948 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/bell-slash.svg1649181964914262471 0
 91/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-tree/lib/syntax/scope/atrulePrelude.js1649178839118231236 0
@@ -4677,7 +4677,7 @@
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/building-lock.svg1649181965190260695 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/yaml/browser/dist/parse-cst.js1649178839730428119 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/quora.svg1649181972666215280 0
-53/home/usuario/Escritorio/HTMLI/PEC1/dist/enlaces.html1652388446633105255 0
+53/home/usuario/Escritorio/HTMLI/PEC1/dist/enlaces.html1652389451950957335 0
 84/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-tree/lib/syntax/atrule/media.js1649178845496255451 0
 78/home/usuario/Escritorio/HTMLI/PEC1/node_modules/are-we-there-yet/package.json1652377054269097411 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/regular/bookmark.svg1649181965002261900 0
@@ -4755,7 +4755,7 @@
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/module.c1649178845172154118 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/object-inspect/.github/FUNDING.yml1649179845532576597 0
 111/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/fire-flame-simple.svg1649181968782238215 0
-71/home/usuario/Escritorio/HTMLI/PEC1/dist/jarl-chiquito-xs.e3ebc635.jpeg1652388446981106752 0
+71/home/usuario/Escritorio/HTMLI/PEC1/dist/jarl-chiquito-xs.e3ebc635.jpeg1652389451450948950 0
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/ruler.svg1649181973078212924 0
 103/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/jsfiddle.svg1649181970738226487 0
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/waze.svg1649181975554199145 0
@@ -4811,7 +4811,7 @@
 60/home/usuario/Escritorio/HTMLI/PEC1/node_modules/has-bigints1649179844880631233 1
 90/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@swc/helpers/src/_wrap_async_generator.js1649178846424545074 0
 101/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/drupal.svg1649181967298247356 0
-68/home/usuario/Escritorio/HTMLI/PEC1/dist/risa-gente-xl.f0293636.webp1652388447065107112 0
+68/home/usuario/Escritorio/HTMLI/PEC1/dist/risa-gente-xl.f0293636.webp1652389451846955591 0
 94/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/package-manager/test/fixtures/has-foo1649178845780344272 1
 74/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/namer-default/lib1649178842019159561 1
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/call-bind/test/callBound.js1649179844732643966 0
@@ -4861,7 +4861,7 @@
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/node.svg1649181971914219604 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/font-awesome.svg1649181968950237187 0
 111/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/plug-circle-xmark.svg1649181972546215969 0
-59/home/usuario/Escritorio/HTMLI/PEC1/dist/emoji.4ddcb324.svg1652388446761105805 0
+59/home/usuario/Escritorio/HTMLI/PEC1/dist/emoji.4ddcb324.svg1652389451874956061 0
 69/home/usuario/Escritorio/HTMLI/PEC1/node_modules/globals/package.json1649178838494029711 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/pinterest.svg1649181972422216680 0
 74/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@swc/helpers/package.json1649178839606388228 0
@@ -4964,7 +4964,7 @@
 114/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/tablet-screen-button.svg1649181974482205044 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/autoprefixer/lib/hacks/grid-end.js1649181067577463215 0
 112/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-parcel-import/node_modules/postcss/docs/architecture.md1649181584276500564 0
-65/home/usuario/Escritorio/HTMLI/PEC1/dist/topcomicos.9dfe7479.jpeg1652388447017106906 0
+65/home/usuario/Escritorio/HTMLI/PEC1/dist/topcomicos.9dfe7479.jpeg1652389451734953712 0
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/crop-simple.svg1649181966730250909 0
 74/home/usuario/Escritorio/HTMLI/PEC1/node_modules/is-callable/.eslintignore1649179844312680097 0
 101/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/rainbow.svg1649181972702215073 0
@@ -4988,7 +4988,7 @@
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/dom-serializer/node_modules/entities/lib/decode.d.ts.map1649178839106227375 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/bezier-curve.svg1649181964918262445 0
 103/home/usuario/Escritorio/HTMLI/PEC1/node_modules/has-tostringtag/test/shams/get-own-property-symbols.js1649179844648651191 0
-70/home/usuario/Escritorio/HTMLI/PEC1/dist/logo-top-comicos.24552c41.png1652388446981106752 0
+70/home/usuario/Escritorio/HTMLI/PEC1/dist/logo-top-comicos.24552c41.png1652389451590951297 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/msgpackr-extract/node_modules/.bin/node-gyp-build1649178885331666556 0
 113/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/regular/face-laugh-squint.svg1649181968102242373 0
 72/home/usuario/Escritorio/HTMLI/PEC1/node_modules/function-bind/.eslintrc1649179844756641900 0
@@ -5211,7 +5211,7 @@
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/monument.svg1649181971782220373 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/htmlnano/lib/modules/removeRedundantAttributes.js1649178841142880422 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/tar-stream/node_modules/readable-stream/errors.js1652377054557097422 0
-60/home/usuario/Escritorio/HTMLI/PEC1/dist/pedro.5ee24e51.jpeg1652388446989106785 0
+60/home/usuario/Escritorio/HTMLI/PEC1/dist/pedro.5ee24e51.jpeg1652389451590951297 0
 80/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/optimizer-image/LICENSE1649178841755075450 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/road.svg1649181973002213352 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/runtime-js/lib/helpers/browser/js-loader.js1649178843003471668 0
@@ -5427,7 +5427,7 @@
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/source-map/lib/quick-sort.js1649178838954178401 0
 111/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/face-laugh-squint.svg1649181968106242348 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2018/TimeClip.js1649179848796319170 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/licencia.86c40925.avif1652388446417104327 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/licencia.86c40925.avif1652389451018941704 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/fly.svg1649181968874237652 0
 84/home/usuario/Escritorio/HTMLI/PEC1/node_modules/css-has-pseudo/dist/browser.cjs.map1649181567283635398 0
 101/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/bandage.svg1649181964850262887 0
@@ -5491,7 +5491,7 @@
 75/home/usuario/Escritorio/HTMLI/PEC1/node_modules/yaml/browser/dist/types.js1649178842103186206 0
 108/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/graduation-cap.svg1649181969374234630 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2020/RegExpExec.js1649179848068373983 0
-64/home/usuario/Escritorio/HTMLI/PEC1/dist/marianico.e6e8c536.webp1652388446737105703 0
+64/home/usuario/Escritorio/HTMLI/PEC1/dist/marianico.e6e8c536.webp1652389451278946065 0
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/htmlnano/docs/versions.json1649178845400225426 0
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/house-user.svg1649181970378228621 0
 68/home/usuario/Escritorio/HTMLI/PEC1/node_modules/nan/tools/README.md1649178842803408227 0
@@ -5605,7 +5605,7 @@
 97/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/gem.svg1649181969126236123 0
 103/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/left-long.svg1649181971130224177 0
 66/home/usuario/Escritorio/HTMLI/PEC1/node_modules/call-bind/LICENSE1649179844588656353 0
-68/home/usuario/Escritorio/HTMLI/PEC1/dist/risa-gente-xl.d1e8a5dc.jpeg1652388447057107079 0
+68/home/usuario/Escritorio/HTMLI/PEC1/dist/risa-gente-xl.d1e8a5dc.jpeg1652389451754954048 0
 83/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/codeframe/lib/codeframe.js1649178844087813756 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/scissors.svg1649181973222212111 0
 66/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss/README.md1649181067513461153 0
@@ -5681,7 +5681,7 @@
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/blender-phone.svg1649181964950262237 0
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/decompress-response/index.d.ts1652377054157097406 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/guilded.svg1649181969466234076 0
-66/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-sm.e301a624.webp1652388446501104688 0
+66/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-sm.e301a624.webp1652389451034941972 0
 63/home/usuario/Escritorio/HTMLI/PEC1/node_modules/is-string/test1649179844656650503 1
 99/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/bacon.svg1649181964818263095 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/vest.svg1649181975330200368 0
@@ -5908,7 +5908,7 @@
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/person-rays.svg1649181972354217070 0
 72/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2015/Get.js1649179846800473151 0
 108/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/face-meh-blank.svg1649181968154242055 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/arevalo.a30d20fd.avif1652388446525104791 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/arevalo.a30d20fd.avif1652389451118943380 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/person.svg1649181972390216863 0
 107/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/hand-point-up.svg1649181969690232727 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/orcid.svg1649181971978219231 0
@@ -6022,7 +6022,7 @@
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/inherits/inherits_browser.js1649179844312680097 0
 63/home/usuario/Escritorio/HTMLI/PEC1/node_modules/string_decoder1652377054061097402 1
 104/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/face-laugh.svg1649181968134242177 0
-58/home/usuario/Escritorio/HTMLI/PEC1/dist/ana.322134aa.avif1652388446673105428 0
+58/home/usuario/Escritorio/HTMLI/PEC1/dist/ana.322134aa.avif1652389451278946065 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/ember.svg1649181967558245742 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/train-subway.svg1649181974818203178 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/nutritionix.svg1649181971938219464 0
@@ -6236,7 +6236,7 @@
 68/home/usuario/Escritorio/HTMLI/PEC1/node_modules/cross-spawn/LICENSE1649179844588656353 0
 100/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/page4.svg1649181972030218930 0
 75/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/types/package.json1649178839082219654 0
-64/home/usuario/Escritorio/HTMLI/PEC1/dist/marianico.76035031.jpeg1652388446989106785 0
+64/home/usuario/Escritorio/HTMLI/PEC1/dist/marianico.76035031.jpeg1652389451590951297 0
 105/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/amazon-pay.svg1649181964486265251 0
 96/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-attribute-case-insensitive/lib/index.js1649181566639602675 0
 110/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/firefox-browser.svg1649181968802238092 0
@@ -6462,7 +6462,7 @@
 78/home/usuario/Escritorio/HTMLI/PEC1/node_modules/weak-lru-cache/LRFUExpirer.js1649178838466020660 0
 92/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/js/all.min.js1649181963474271874 0
 70/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/namer-default1649178842267238223 1
-57/home/usuario/Escritorio/HTMLI/PEC1/src/presentacion.html1652387932058610913 0
+57/home/usuario/Escritorio/HTMLI/PEC1/src/presentacion.html1652389116127986048 0
 70/home/usuario/Escritorio/HTMLI/PEC1/node_modules/posthtml/lib/index.js1649178838217940497 0
 78/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2021/StringPad.js1649179848512340553 0
 90/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/namer-default/lib/DefaultNamer.js1649178842123192549 0
@@ -7056,7 +7056,7 @@
 84/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-lab-function/dist/index.mjs1649181567323637431 0
 80/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/source-map/package.json1649178839830460289 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/source-map/README.md1649178839926491173 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/barragan.27272b47.webp1652388446753105771 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/barragan.27272b47.webp1652389451290946266 0
 67/home/usuario/Escritorio/HTMLI/PEC1/node_modules/gauge/theme-set.js1652377054229097409 0
 68/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/packager-js1649178843595658557 1
 84/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@parcel/source-map/src/SourceMap.js1649178839274281422 0
@@ -8200,7 +8200,7 @@
 72/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2016/abs.js1649179845528576930 0
 48/home/usuario/Escritorio/HTMLI/PEC1/package.json1652377060161097432 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2017/ToUint16.js1649179849264284604 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/camiseta.3a3e8220.avif1652388446421104344 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/camiseta.3a3e8220.avif1652389451018941704 0
 78/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2016/IsInteger.js1649179847340430537 0
 91/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/input-search.js1649178851178008852 0
 82/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2016/IsConstructor.js1649179847252437392 0
@@ -8259,7 +8259,7 @@
 76/home/usuario/Escritorio/HTMLI/PEC1/node_modules/lmdb/src/ordered-binary.cpp1649178846600599862 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2021/ToBigInt.js1649179848888312243 0
 85/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-parcel-import/.idea/misc.xml1649181584628518522 0
-62/home/usuario/Escritorio/HTMLI/PEC1/dist/risitas.c8d26eb5.avif1652388446529104808 0
+62/home/usuario/Escritorio/HTMLI/PEC1/dist/risitas.c8d26eb5.avif1652389451118943380 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/stumbleupon.svg1649181974326205910 0
 95/home/usuario/Escritorio/HTMLI/PEC1/node_modules/readable-stream/lib/internal/streams/stream.js1652377054545097421 0
 73/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2021/GetV.js1649179846980458648 0
@@ -8956,7 +8956,7 @@
 95/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2018/EnumerableOwnPropertyNames.js1649179846680482820 0
 106/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/solid/location-dot.svg1649181971302223173 0
 75/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2018/modulo.js1649179847720400929 0
-63/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito.773cbddf.webp1652388447069107130 0
+63/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito.773cbddf.webp1652389451846955591 0
 81/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2018/HourFromTime.js1649179847028454846 0
 81/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2018/TimeFromYear.js1649179848832316458 0
 97/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@babel/highlight/node_modules/color-name/LICENSE1649178838237946962 0
@@ -8980,7 +8980,7 @@
 88/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2020/SameValueNonNumeric.js1649179848168366455 0
 95/home/usuario/Escritorio/HTMLI/PEC1/node_modules/postcss-parcel-import/node_modules/ansi-styles1649181583884480566 1
 75/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2020/Invoke.js1649179847104448925 0
-65/home/usuario/Escritorio/HTMLI/PEC1/dist/topcomicos.74bcf8e1.webp1652388446901106408 0
+65/home/usuario/Escritorio/HTMLI/PEC1/dist/topcomicos.74bcf8e1.webp1652389451798954786 0
 71/home/usuario/Escritorio/HTMLI/PEC1/node_modules/is-bigint/CHANGELOG.md1649179844852633642 0
 77/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2020/ToBigInt.js1649179848884312543 0
 82/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2015/IsConstructor.js1649179847252437392 0
@@ -10325,11 +10325,11 @@
 80/home/usuario/Escritorio/HTMLI/PEC1/node_modules/resolve/test/resolver/symlinked1649179845512578262 1
 88/home/usuario/Escritorio/HTMLI/PEC1/node_modules/resolve/test/resolver/symlinked/package1649179846384506672 1
 95/home/usuario/Escritorio/HTMLI/PEC1/node_modules/resolve/test/resolver/symlinked/package/bar.js1649179845520577597 0
-74/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-collage-xs.5d5580b3.jpeg1652388447005106854 0
+74/home/usuario/Escritorio/HTMLI/PEC1/dist/chiquito-collage-xs.5d5580b3.jpeg1652389451494949688 0
 95/home/usuario/Escritorio/HTMLI/PEC1/node_modules/resolve/test/resolver/symlinked/_/node_modules1649179845644567269 1
 79/home/usuario/Escritorio/HTMLI/PEC1/node_modules/es-abstract/2018/DaysInYear.js1649179846576491200 0
 102/home/usuario/Escritorio/HTMLI/PEC1/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js1649179845644567269 0
-52/home/usuario/Escritorio/HTMLI/PEC1/src/enlaces.html1652387829742013920 0
+52/home/usuario/Escritorio/HTMLI/PEC1/src/enlaces.html1652389327704716362 0
 86/home/usuario/Escritorio/HTMLI/PEC1/node_modules/caniuse-lite/data/features/history.js1649178850893922303 0
 98/home/usuario/Escritorio/HTMLI/PEC1/node_modules/@fortawesome/fontawesome-free/svgs/brands/ups.svg1649181975082201721 0
 81/home/usuario/Escritorio/HTMLI/PEC1/node_modules/resolve/test/resolver/mug.coffee1649179845084613907 0
